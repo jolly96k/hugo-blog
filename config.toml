@@ -1,0 +1,4 @@
+baseURL = "http://blog.jolly96dog.dev"
+languageCode = "ja-jp"
+title = "Jollyの雑記帳"
+theme = "ananke"
