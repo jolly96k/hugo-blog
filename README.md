@@ -10,7 +10,7 @@ Hugoについては公式情報を参照。
 ## ■利用時の注意
 ブログテーマをサブモジュールで追加しているため、クローンするときは"--recurse-submodules"オプションを付ける必要あり。
 
-    git clone https://github.com/jolly96k/hugo-blog.git --recurse-submodules
+    $ git clone https://github.com/jolly96k/hugo-blog.git --recurse-submodules --remote-submodules
 
 ## ■参考URL
 Hugo公式サイト: <https://gohugo.io/>
