@@ -10,4 +10,6 @@ Hugoについては公式情報を参照。
 ## ■参考URL
 Hugo公式サイト: <https://gohugo.io/>
 
+Hugoクイックスタート: <https://gohugo.io/getting-started/quick-start/>
+
 HugoのDockerコンテナ(非公式): <https://github.com/jolly96k/blog>
