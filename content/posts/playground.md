@@ -1,7 +1,11 @@
 ---
-title: "Hello, World"
-date: 2022-11-02T16:42:47Z
-draft: true
+title: "Playground"
+date: 2022-11-04T18:13:13Z
+draft: false
 ---
 
-# Hello, World
+Hugoを使ってブログを書くことにした。
+
+これはHugoの使い方を習得するために色々弄っていい投稿。
+
+WordPressよりは扱いやすいかな…。
