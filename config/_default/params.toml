@@ -31,10 +31,10 @@ enableCodeCopy = true
   showMoreLinkDest = "/posts"
 
 [article]
-  showDate = true
+  showDate = false
   # showViews = true
   # showLikes = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background
@@ -47,11 +47,11 @@ enableCodeCopy = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
