@@ -13,7 +13,15 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
+enableGitInfo = true
+
 # googleAnalytics = "G-XXXXXXXXX"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
 
 [taxonomies]
   tag = "tags"
