@@ -1,6 +1,8 @@
 ---
 title: "Playground"
 date: 2022-11-05T22:00:00+09:00
+categories: ["playground"]
+tags: ["playground"]
 draft: false
 ---
 
