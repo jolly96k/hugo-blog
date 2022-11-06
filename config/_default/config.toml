@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://blog.jolly96dog.dev"
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 20

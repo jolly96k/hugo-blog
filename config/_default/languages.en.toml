@@ -1,7 +1,7 @@
-languageCode = "ja"
-languageName = "Japanese"
-displayName = "JP"
-isoCode = "ja"
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
 weight = 1
 rtl = false
 
@@ -10,8 +10,8 @@ title = "Jollyの雑記帳"
 description = "絶望エンジニアのブログ"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-# dateFormat = "2006/01/02 15:04"
-dateFormat = "2006/01/02"
+dateFormat = "2006/01/02 15:04"
+# dateFormat = "2006/01/02"
 
 [author]
   name = "Kotaro Kuroda"
